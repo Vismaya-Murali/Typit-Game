@@ -1,0 +1,10 @@
+elephant
+giraffe
+rhinoceros
+zebra
+kangaroo
+hippopotamus
+crocodile
+alligator
+koala
+penguin
